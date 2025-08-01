@@ -1,0 +1,3 @@
+**Speed Log** é uma plataforma **B2B** que conecta **transportadoras** a **embarcadoras**, oferecendo uma solução moderna para a gestão de fretes e otimização da logística empresarial.
+Com foco em eficiência, a plataforma facilita o encontro entre empresas que precisam transportar mercadorias e aquelas que oferecem serviços de transporte, promovendo agilidade, segurança e rastreabilidade nas operações.
+A **Speed Log** foi projetada para atender tanto ao ambiente web quanto mobile, com uma interface responsiva e amigável, adequada para o uso diário por equipes logísticas.
