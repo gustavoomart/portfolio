@@ -56,9 +56,10 @@ class LandingTab extends StatelessWidget {
             alignment: Alignment.bottomCenter,
             child: Padding(
               padding: const EdgeInsets.only(bottom: 32),
-              child: Row(
+              child: Wrap(
                 spacing: 16,
-                mainAxisAlignment: MainAxisAlignment.center,
+                runSpacing: 8,
+                alignment: WrapAlignment.center,
                 children: [
                   ContactChip(
                     label: 'GitHub',
